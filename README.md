@@ -8,8 +8,8 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-!["Snek server repo running the server side"](#)
-!["Snake client code running](#)
+!["Snek server repo running the server side"](#https://github.com/alinebellozo/snake-client/blob/master/snek_server.png)
+!["Snake client code running](#https://github.com/alinebellozo/snake-client/blob/master/snake_client.png)
 
 
 ## Getting Started
